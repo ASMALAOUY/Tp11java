@@ -10,7 +10,7 @@ Exercice 2 : Gestionnaire de Tâches avec List
 
 Exercice 3 : Maîtrise des Set : Gestionnaire de Mots Uniques
 
-![image alt]()
+![image alt](https://github.com/ASMALAOUY/Tp11java/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-11-06%20122815.jpg?raw=true)
 
 
 Exercice 4 : Gestion d’un Dictionnaire Bilingue avec Map
